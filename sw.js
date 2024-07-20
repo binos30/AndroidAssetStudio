@@ -15,7 +15,7 @@ workbox.precaching.precacheAndRoute([
   },
   {
     "url": "icons-launcher.html",
-    "revision": "32b0ddc9ae780b4e20c595005a04c0a1"
+    "revision": "1c322934f58bfeba56098499e4ff73e1"
   },
   {
     "url": "icons-notification.html",
@@ -31,15 +31,15 @@ workbox.precaching.precacheAndRoute([
   },
   {
     "url": "res/generator-thumbs/icon-animator.svg",
-    "revision": "47d59b4fd0289994d2f8bd27efacdff1"
+    "revision": "65311bbd1a2658cacdf6a2be539b0d9c"
   },
   {
     "url": "res/generator-thumbs/icons-actionbar.svg",
-    "revision": "bdacfa754719b69a03734fa15b2c2e0c"
+    "revision": "747ac6e1b23e6f00a86d7baebe76029d"
   },
   {
     "url": "res/generator-thumbs/icons-app-shortcut.svg",
-    "revision": "50baa429922a87fb96080fc6c8cecd0a"
+    "revision": "dcd36cf4d4b734e4d4d7993aeb5350ce"
   },
   {
     "url": "res/generator-thumbs/icons-generic.svg",
@@ -51,7 +51,7 @@ workbox.precaching.precacheAndRoute([
   },
   {
     "url": "res/generator-thumbs/icons-notification.svg",
-    "revision": "cfc9273c4ce8a151fa5d25dbded7914d"
+    "revision": "bd07505811fade5e742afe6a85cedf03"
   },
   {
     "url": "res/generator-thumbs/nine-patches.svg",
@@ -59,15 +59,15 @@ workbox.precaching.precacheAndRoute([
   },
   {
     "url": "app.js",
-    "revision": "24152a1129fafd53f8adca46903e058e"
+    "revision": "a08b0b6ad252da1b5cb27bb0533589ae"
   },
   {
     "url": "vendor.js",
-    "revision": "e7ed041554d1603a964b39a3b1010a9d"
+    "revision": "29a5241ddaf6382e654816a3ac13b65f"
   },
   {
     "url": "app.css",
-    "revision": "c7ac3bad6868fa8632b47f98361dfaa5"
+    "revision": "dad79513140372ba71f4ecb7589c3721"
   }
 ]);
 
